@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devlimelabs-meilisearch-ts-mcp-badge.png)](https://mseep.ai/app/devlimelabs-meilisearch-ts-mcp)
+
 # Meilisearch MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@devlimelabs/meilisearch-ts-mcp)](https://smithery.ai/server/@devlimelabs/meilisearch-ts-mcp)
